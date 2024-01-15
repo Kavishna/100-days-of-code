@@ -8,6 +8,23 @@
 
 **Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
 
+### Day 1: January 15, 2024
+
+**Today's Progress**: Started working on mynote component.
+
+**Thoughts:** I've completed the styling and structural aspects of both the signup and signin components. While I faced challenges with the CSS grid, I successfully resolved the issue related to email autocomplete.
+
+solution to autofill issue
+
+     input:-webkit-autofill,
+     input:-webkit-autofill:focus  {
+
+	    transition: background-color 0s  600000s, color 0s  600000s;
+
+    }
+
+**Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
