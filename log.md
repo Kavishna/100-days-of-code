@@ -18,10 +18,16 @@ solution to autofill issue
 
      input:-webkit-autofill,
      input:-webkit-autofill:focus  {
-
 	    transition: background-color 0s  600000s, color 0s  600000s;
-
     }
+
+**Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
+
+### Day 2: January 16, 2024
+
+**Today's Progress**: Finalized working on mynotes component (CSS and HTML).
+
+**Thoughts:** I'm not very experienced with CSS Grid, but I did manage to figure out and address the grid-related issues on my "mynotes" component. I've learned quite a bit, though I still need to stay vigilant and keep an eye on CSS Grid.
 
 **Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
 
