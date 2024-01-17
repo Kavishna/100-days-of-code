@@ -31,6 +31,14 @@ solution to autofill issue
 
 **Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
 
+### Day 3: January 17, 2024
+
+**Today's Progress**: Started working on addnote component.
+
+**Thoughts:** I'm just about done with the addnote component, but I'm having some trouble with the borders—they seem to be a jumping around when focus.
+
+**Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
