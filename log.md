@@ -39,6 +39,18 @@ solution to autofill issue
 
 **Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
 
+### Day 4: January 18, 2024
+
+**Today's Progress**: Finished working on the newnote component.
+
+**Thoughts:** I've completed styling for the newnote component and resolved the border issue (they were jumping around when I added a border on focus). The solution was to include a transparent border on each input, so when it's in focus, it just changes colors.
+
+    input{
+	    border:  1px solid transparent;
+    }
+
+**Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
