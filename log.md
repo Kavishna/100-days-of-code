@@ -51,6 +51,14 @@ solution to autofill issue
 
 **Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
 
+### Day 5: January 19, 2024
+
+**Today's Progress**: Added some logic to mynotes component.
+
+**Thoughts:** I've made some updates to the interaction in my notes component, but I feel that the code is becoming a bit hard to read. I'm looking for a way to refactor the component for better clarity, even though the progress may not be significant.
+
+**Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
