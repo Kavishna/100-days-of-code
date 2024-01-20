@@ -59,6 +59,14 @@ solution to autofill issue
 
 **Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
 
+### Day 6: January 20, 2024
+
+**Today's Progress**: Strated working on little side project
+
+**Thoughts:** As the MyNotes app starts to become a bit intricate, I realized I need to dive into understanding user authentication, and that's taking a bit of time. To keep things fresh, I've started working on a side project – a password generator app for a Frontend Mentor challenge.
+
+**Link to work:** [Password Generator]([https://github.com/Kavishna/todo-app](https://github.com/Kavishna/password-genarator))
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
