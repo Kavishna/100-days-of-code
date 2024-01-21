@@ -67,6 +67,14 @@ solution to autofill issue
 
 **Link to work:** [Password Generator]([https://github.com/Kavishna/todo-app](https://github.com/Kavishna/password-genarator))
 
+### Day 7: January 21, 2024
+
+**Today's Progress**: The app is actually creating passwords
+
+**Thoughts:** I tried out ChatGPT to write some code, and it was really useful. I had this one long string that I needed to split into four arrays, and it's awesome how quickly it tackled the task.
+
+**Link to work:** [Password Generator]([https://github.com/Kavishna/todo-app](https://github.com/Kavishna/password-genarator))
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
