@@ -75,6 +75,15 @@ solution to autofill issue
 
 **Link to work:** [Password Generator]([https://github.com/Kavishna/todo-app](https://github.com/Kavishna/password-genarator))
 
+### Day 8: January 22, 2024
+
+**Today's Progress**: Create a password strength check function
+
+**Thoughts:** I found some issues with my current password generation function; sometimes, it fails to generate all possible combinations. I am still unable to find a solution to this problem.
+
+**Link to work:** [Password Generator]([https://github.com/Kavishna/todo-app](https://github.com/Kavishna/password-genarator))
+
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
