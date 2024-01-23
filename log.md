@@ -83,6 +83,13 @@ solution to autofill issue
 
 **Link to work:** [Password Generator]([https://github.com/Kavishna/todo-app](https://github.com/Kavishna/password-genarator))
 
+### Day 9: January 23, 2024
+
+**Today's Progress**: Made the app look much closer to the design.
+
+**Thoughts:** I'm still dealing with the same problem of generated passwords lacking variety, and there's also an issue with calculating password strength. I've been learning about how to style the input[type="range"].
+
+**Link to work:** [Password Generator]([https://github.com/Kavishna/todo-app](https://github.com/Kavishna/password-genarator))
 
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
