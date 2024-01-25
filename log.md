@@ -91,6 +91,14 @@ solution to autofill issue
 
 **Link to work:** [Password Generator]([https://github.com/Kavishna/todo-app](https://github.com/Kavishna/password-genarator))
 
+### Day 10: January 25, 2024
+
+**Today's Progress**: Finalized all css styling
+
+**Thoughts:** Still trying to slove the problem with password generation function. All the styles are very close to the design.
+
+**Link to work:** [Password Generator]([https://github.com/Kavishna/todo-app](https://github.com/Kavishna/password-genarator))
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
