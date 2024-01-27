@@ -99,6 +99,14 @@ solution to autofill issue
 
 **Link to work:** [Password Generator]([https://github.com/Kavishna/todo-app](https://github.com/Kavishna/password-genarator))
 
+### Day 11: January 27, 2024
+
+**Today's Progress**: Project completed.
+
+**Thoughts:** Yay! I've finished the project, and it closely aligns with the original design, reaching 96% completion (due to some missing resources). I still need to update the readme, and I'll be doing that on the go.
+
+**Link to work:** [Password Generator]([https://github.com/Kavishna/todo-app](https://github.com/Kavishna/password-genarator))
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
