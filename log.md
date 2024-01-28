@@ -113,6 +113,12 @@ solution to autofill issue
 
 **Thoughts:** This test made me realize coding isn't always easy. It took me over an hour to figure out the challenge, but I finally completed it (Array.diff).
 
+### Day 13: January 28, 2024
+
+**Today's Progress**: Another codewars challenge.
+
+**Thoughts:** Even though I feel like I could do more, I decided to take on another challenge on Codewars. My favorite part is checking out the answers section, where some really clever developers tackle these problems with just one line of code – it's pretty
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
