@@ -119,6 +119,12 @@ solution to autofill issue
 
 **Thoughts:** Even though I feel like I could do more, I decided to take on another challenge on Codewars. My favorite part is checking out the answers section, where some really clever developers tackle these problems with just one line of code – it's pretty
 
+### Day 14: January 29, 2024
+
+**Today's Progress**: Learned about the HTML dialog and popover API.
+
+**Thoughts:** Leveled up on CodeWars, and I'm also impressed by the HTML dialog and popover API. Their default styles are cool, eliminating the need to create manual modals and popovers with divs.
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
