@@ -125,6 +125,14 @@ solution to autofill issue
 
 **Thoughts:** Leveled up on CodeWars, and I'm also impressed by the HTML dialog and popover API. Their default styles are cool, eliminating the need to create manual modals and popovers with divs.
 
+### Day 15: January 30, 2024
+
+**Today's Progress**: Back on todo app.
+
+**Thoughts:** I've begun working on the backend of the todo app project, but I've run out of free clusters in my existing MongoDB account. So, I need to set up a new account specifically for this project.
+
+**Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
