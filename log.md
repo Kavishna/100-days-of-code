@@ -133,6 +133,14 @@ solution to autofill issue
 
 **Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
 
+### Day 16: January 31, 2024
+
+**Today's Progress**: CRUD operations are finished.
+
+**Thoughts:** Completed the CRUD operations for the app today and successfully finished two codewars challenges.
+
+**Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
