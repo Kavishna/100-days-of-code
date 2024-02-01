@@ -141,6 +141,14 @@ solution to autofill issue
 
 **Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
 
+### Day 17: February 01, 2024
+
+**Today's Progress**: Working on frontend.
+
+**Thoughts:** Having a bit of a struggle today because, even though I'm anticipating a JSON response, the server is actually returning HTML. Interestingly, when checking with Postman, it does show the expected JSON response.
+
+**Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
