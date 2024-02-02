@@ -149,6 +149,14 @@ solution to autofill issue
 
 **Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
 
+### Day 18: February 02, 2024
+
+**Today's Progress**: Finnaly found that error.
+
+**Thoughts:** I came across an issue where my application was giving back an HTML file instead of the expected result. Turns out, because I'm using Vite, I need to set up a proxy in the vite.config.js file to fix this.
+
+**Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
