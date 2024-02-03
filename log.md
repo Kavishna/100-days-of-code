@@ -157,6 +157,14 @@ solution to autofill issue
 
 **Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
 
+### Day 19: February 03, 2024
+
+**Today's Progress**: Now I can add a post to database from app.
+
+**Thoughts:** I went ahead and included the post request in the app, but now I realize my code is a bit of a mess. Need a clean up!
+
+**Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
