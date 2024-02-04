@@ -165,6 +165,14 @@ solution to autofill issue
 
 **Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
 
+### Day 20: February 04, 2024
+
+**Today's Progress**: Full of bugs.
+
+**Thoughts:** I've figured out that it's not a good idea to jump into the design without sorting out the logic first. Starting today, I'll make sure to integrate both design and logic in my implementation process.
+
+**Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
