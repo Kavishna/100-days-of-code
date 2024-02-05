@@ -173,6 +173,14 @@ solution to autofill issue
 
 **Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
 
+### Day 21: February 05, 2024
+
+**Today's Progress**: All the CRUD operations are working.
+
+**Thoughts:** Great news! I've fixed all the errors, and things are running smoothly now. A simple useEffect really came to the rescue and saved the day. However, I must admit, my code is still a bit messy, but it's getting the job done.
+
+**Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
