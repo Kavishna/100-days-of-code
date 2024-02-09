@@ -189,6 +189,14 @@ solution to autofill issue
 
 **Link to work:** [Todo App](https://github.com/Kavishna/todo-app)
 
+### Day 23: February 09, 2024
+
+**Today's Progress**: Followed a video tutorial to create a Chrome extension.
+
+**Thoughts:** I'm planning to develop a Chrome extension for my personal project. I recently followed a tutorial and successfully created one extension. Tomorrow, I'll be starting work on my own extension project.
+
+**Link to video:** [Build a Chrome Extension ]([https://github.com/Kavishna/todo-app](https://www.youtube.com/watch?v=0n809nd4Zu4))
+
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
 2. [Resistor Color Code Calculator](https://github.com/Kavishna/resistor-color-code-calculator)
