@@ -195,7 +195,16 @@ solution to autofill issue
 
 **Thoughts:** I'm planning to develop a Chrome extension for my personal project. I recently followed a tutorial and successfully created one extension. Tomorrow, I'll be starting work on my own extension project.
 
-**Link to video:** [Build a Chrome Extension ]([https://github.com/Kavishna/todo-app](https://www.youtube.com/watch?v=0n809nd4Zu4))
+**Link to video:** [Build a Chrome Extension ](https://www.youtube.com/watch?v=0n809nd4Zu4)
+
+### Day 24: February 10, 2024
+
+**Today's Progress**: More on chrome extensions.
+
+**Thoughts:** Today, I spent some time going through the documentation for Chrome extensions and played around with a few projects. However, I haven't actually started working on my project yet.
+
+**Link to doc:** [Build a Chrome Extension ](https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-activetab)
+
 
 **Link(s) to work**
 1. [Meta Invoice Renamer](https://github.com/Kavishna/meta-invoice-renamer)
